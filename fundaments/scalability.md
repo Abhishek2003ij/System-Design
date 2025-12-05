@@ -38,8 +38,20 @@
 - **Network Latency**: Communication between distributed servers adds overhead
 - **Application Redesign Needed**: Often requires stateless application architecture
 - **Increased Complexity**: Distributed systems are harder to debug and troubleshoot
+## Architectural Approaches to Scaling
 
-  ## 🏛️ Architectural Approaches to Scaling
-  ## Microservices
-  **Definition** : Microservices is an architectural technique where a large application is broken down into small, independent units (services). Each service runs its own process and communicates with other services via lightweight protocols like HTTP/REST APIs or gRPC.
+### Microservices
+**Definition**: Microservices is an architectural technique where a large application is broken down into small, independent units (services). Each service runs its own process and communicates with other services via lightweight protocols like HTTP/REST APIs or gRPC.
+
+*(In-depth coverage of communication patterns, deployment strategies, and real-world implementations will be covered in advanced topics)*
+
+### Serverless Architecture
+**Definition**: Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisioning of servers. Applications run in stateless compute containers that are event-triggered and fully managed by the cloud provider.
+
+*(In-depth coverage of Function-as-a-Service (FaaS), event sources, cold starts, and use cases will be covered in advanced topics)*
+
+### Monolithic Architecture
+**Definition**: Monolithic architecture is a software design where all application components (UI, business logic, data access) are tightly coupled and deployed as a single executable unit.
+
+*(In-depth coverage of n-tier architecture, scaling challenges, dependency management, and breaking monoliths into microservices will be covered in advanced topics)*
   
