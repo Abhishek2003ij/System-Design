@@ -12,6 +12,7 @@ Load balancing involves distributing incoming web or network requests across mul
 
 ## Load Balancer Illustration
 ![Load Balancer Diagram](https://github.com/user-attachments/assets/ae9f41d6-f2ca-4ddf-bdff-5514bf554aa6)
+
 Image credit: https://www.cloud4u.com/blog/what-is-a-load-balancer-and-its-types/
 
 ## Load Balancing Algorithms (Decision Techniques)
