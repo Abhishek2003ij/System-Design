@@ -4,11 +4,11 @@
 Message Queues are asynchronous communication mechanisms that enable distributed systems to exchange data by storing and forwarding messages between applications, services, or components.
 
 ## Why Message Queues are Essential
-- **Decouples Services**: Allows independent scaling and deployment
-- **Improves Reliability**: Handles failures with retry mechanisms and persistence
-- **Manages Traffic Spikes**: Buffers requests during high load periods
-- **Enables Asynchronous Processing**: Non-blocking communication between components
-- **Supports Event-Driven Architecture**: Facilitates publish-subscribe patterns
+- **Decouples Services**: Allows independent scaling and deployment.
+- **Improves Reliability**: Handles failures with retry mechanisms and persistence.
+- **Manages Traffic Spikes**: Buffers requests during high load periods.
+- **Enables Asynchronous Processing**: Non-blocking communication between components.
+- **Supports Event-Driven Architecture**: Facilitates publish-subscribe patterns.
 
 ## Message Queue Architecture
 
