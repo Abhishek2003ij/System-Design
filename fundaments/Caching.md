@@ -6,7 +6,7 @@ Caching is a technique that stores frequently accessed data in a temporary, high
 ---
 
 ## **Why Caching is Essential**
-- **Reduces Latency**: Faster access from memory vs disk/database  
+- **Reduces Latency**: Faster access from memory vs disk/database.  
 - **Decreases Load**: Minimizes calls to the primary data source  
 - **Improves Scalability**: Handles more traffic with the same backend resources  
 - **Enhances User Experience**: Faster response times  
