@@ -13,7 +13,7 @@ Message Queues are asynchronous communication mechanisms that enable distributed
 ## Message Queue Architecture
 
 ### Basic Components
-**Producer**: Application that sends messages to the queue
+**Producer**: Application that sends messages to the queue.
 **Queue**: Temporary storage for messages (FIFO typically)
 **Consumer**: Application that receives and processes messages
 **Broker**: Manages queues, routing, and delivery
