@@ -8,7 +8,7 @@
 
 ## Practical Examples
 
-### Example 1: Sending an Email
+### Example 1: Sending an Email:
 1. **Application**: User composes email in client (Outlook/Gmail)
 2. **Presentation**: Email formatted, attachments encoded
 3. **Session**: Connection established with email server
@@ -17,7 +17,7 @@
 6. **Data Link**: Ethernet frames sent to local router
 7. **Physical**: Electrical signals on wire
 
-### Example 2: Loading a Webpage
+### Example 2: Loading a Webpage:
 1. **Application**: Browser sends HTTP request
 2. **Presentation**: SSL/TLS encryption for HTTPS
 3. **Session**: Maintains session with cookies
