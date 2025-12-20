@@ -1,7 +1,7 @@
 # IP Addresses
 
 ## Definition
-IP Addresses (Internet Protocol Addresses) are unique numerical identifiers assigned to each device connected to a network that uses the Internet Protocol for communication. They serve two main functions: identifying the host or network interface and providing the location of the host in the network.
+IP Addresses (Internet Protocol Addresses) are unique numerical identifiers assigned to each device connected to a network that uses the Internet Protocol for communication. They serve two main functions: identifying the host or network interface and providing the location of the host in the network
 
 ## Why IP Addresses are Essential
 - **Device Identification**: Uniquely identifies each device on a network
