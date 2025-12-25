@@ -2,7 +2,7 @@
 ![docImages_63f7c3824890332fa0e7c691_img_702caa-0f-367-d57d-7640637d7e60](https://github.com/user-attachments/assets/1b435d95-3b68-4ff2-bff4-59bf40ec40c6)
 
 ## Definition
-CAP Theorem, also known as Brewer's Theorem, states that in a distributed computer system, you can only guarantee two out of three properties simultaneously: Consistency, Availability, and Partition Tolerance.
+CAP Theorem, also known as Brewer's Theorem, states that in a distributed computer system, you can only guarantee two out of three properties simultaneously: Consistency, Availability, and Partition Tolerance
 
 
 ## The Three Properties
