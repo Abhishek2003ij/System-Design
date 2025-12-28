@@ -4,7 +4,7 @@
 
 ## What is a Proxy (Forward Proxy)?
 
-A **proxy server** is an intermediary that sits between a **client (user)** and the **internet**
+A **proxy server** is an intermediary that sits between a **client (user)** and the **internet**.
 It acts **on behalf of the client** to fetch resources from other servers.
 
 ---
