@@ -1,7 +1,7 @@
 # DNS (Domain Name System)
 
 ## Definition
-DNS (Domain Name System) is a hierarchical and distributed naming system that translates human-readable domain names (like `google.com`) into machine-readable IP addresses (like `172.217.160.110`). It acts as the internet's phonebook, enabling users to access websites using memorable names instead of numerical IP addresses
+DNS (Domain Name System) is a hierarchical and distributed naming system that translates human-readable domain names (like `google.com`) into machine-readable IP addresses (like `172.217.160.110`). It acts as the internet's phonebook, enabling users to access websites using memorable names instead of numerical IP addresses.
 
 ---
 
