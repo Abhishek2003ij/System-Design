@@ -3,7 +3,7 @@
 ## HTTP (HyperText Transfer Protocol)
 
 ### What it is
-The basic protocol used to transfer web pages and data between your browser and a website's server. It's been used since the early days of the internet.
+The basic protocol used to transfer web pages and data between your browser and a website's server. It's been used since the early days of the internet
 
 ### How it works
 When you type a website address in your browser, your computer sends a request to the server using HTTP.  
