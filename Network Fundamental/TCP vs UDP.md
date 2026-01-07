@@ -3,7 +3,7 @@
 ## TCP (Transmission Control Protocol)
 
 ### What it is
-TCP is a **connection-oriented** protocol used for reliable communication between devices over a network.
+TCP is a **connection-oriented** protocol used for reliable communication between devices over a network
 
 ### How it works
 Before data transfer begins, TCP establishes a connection using a **three-way handshake**:
