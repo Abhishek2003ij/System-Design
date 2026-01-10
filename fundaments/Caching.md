@@ -1,7 +1,7 @@
 # **Caching**
 
 ## **Definition**
-Caching is a technique that stores frequently accessed data in a temporary, high-speed storage layer to reduce access time, decrease load on the primary database, and improve system performance.
+Caching is a technique that stores frequently accessed data in a temporary, high-speed storage layer to reduce access time, decrease load on the primary database, and improve system performance
 
 ---
 
