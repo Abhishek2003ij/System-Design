@@ -2,7 +2,7 @@
 System Concepts Repository
 
 This repository contains system concepts from basic to advanced, mapped to real-world use cases and examples.
-The goal is to make complex system topics easy to understand through practical explanations and relatable examples.
+The goal is to make complex system topics easy to understand through practical explanations and relatable examples
 
 📘 What You’ll Find Here
 
